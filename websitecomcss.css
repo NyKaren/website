@@ -88,3 +88,7 @@
  display: inline;   
 }
 
+.jumbotron .container {
+  position: relative;
+  top: 100px;
+}
