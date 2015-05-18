@@ -82,3 +82,9 @@
 .learn-more a {
   color: #00b0ff;
 }
+
+/*Trocando de Block para inline a parte de navegação do site*/
+.nav li {
+ display: inline;   
+}
+
